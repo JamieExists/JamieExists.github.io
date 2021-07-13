@@ -1,0 +1,76 @@
+/* PRIDE usernames */
+@import url("https://nyri4.github.io/donators/donators.css");
+
+:root{
+  --user-id: 604855154365300753
+}
+
+.message-2qnXI6[data-user-id="var(--user-id)"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="var(--user-id)"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="var(--user-id)"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="var(--user-id)"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="var(--user-id)"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="var(--user-id)"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="var(--user-id)"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="var(--user-id)"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="var(--user-id)"] .username-2b1r56,
+.root-3QyAh1[data-user-id="var(--user-id)"] .username-2b1r56,
+.message-2qnXI6[data-user-id="692414570106585239"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="692414570106585239"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="692414570106585239"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="692414570106585239"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="692414570106585239"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="692414570106585239"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="692414570106585239"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="692414570106585239"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="692414570106585239"] .username-2b1r56,
+.root-3QyAh1[data-user-id="692414570106585239"] .username-2b1r56,
+/* Put user id where it says 'USER-ID' for each user you want to add :) */
+.message-2qnXI6[data-user-id="USER-ID"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="USER-ID"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="USER-ID"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="USER-ID"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="USER-ID"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="USER-ID"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="USER-ID"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="USER-ID"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="USER-ID"] .username-2b1r56,
+.root-3QyAh1[data-user-id="USER-ID"] .username-2b1r56 {
+  color: transparent !important;
+  -webkit-background-clip: text;
+/* For moving colours uncomment this code:
+  background-size: 300%;
+  animation: shine 10s linear infinite;
+}
+@keyframes shine {
+  to {
+    background-position: 300% center;
+  }
+/* End here */
+}
+/* Trans pride */
+.message-2qnXI6[data-user-id=var(--user-id)] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id=var(--user-id)] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id=var(--user-id)] .username-1A8OIy,
+.channel-2QD9_O[data-user-id=var(--user-id)] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id=var(--user-id)] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id=var(--user-id)] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id=var(--user-id)] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id=var(--user-id)] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id=var(--user-id)] .username-2b1r56,
+.root-3QyAh1[data-user-id=var(--user-id)] .username-2b1r56 {
+  background-image: linear-gradient(-60deg, #5BCEFA 20%, #F5A9B8 20%, 40%, #FFFFFF 40%, 60%, #F5A9B8 60%, 80%, #5BCEFA 80%);
+}
+/* Enby pride */
+.message-2qnXI6[data-user-id="692414570106585239"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[data-author-id="692414570106585239"] > :not(.repliedMessage-VokQwo) .username-1A8OIy,
+.message-2qnXI6[vz-user-id="692414570106585239"] .username-1A8OIy,
+.channel-2QD9_O[data-user-id="692414570106585239"] .overflow-WK9Ogt,
+.channel-2QD9_O[vz-user-id="692414570106585239"] .overflow-WK9Ogt,
+.member-3-YXUe[data-user-id="692414570106585239"] .roleColor-rz2vM0,
+.member-3-YXUe[vz-user-id="692414570106585239"] .roleColor-rz2vM0,
+.userPopout-xaxa6l[data-user-id="692414570106585239"] .username-2b1r56,
+.userPopout-xaxa6l[vz-user-id="692414570106585239"] .username-2b1r56,
+.root-3QyAh1[data-user-id="692414570106585239"] .username-2b1r56 {
+  background-image: linear-gradient(-60deg, #FFF430 25%, #FFFFFF 25%, 50%, #9C59D1 50%, 75%, #000000 75%);
+}
